@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-<img src="http://www.reactiongifs.com/keyboard-pound/beavis-on-computer" width="200" />
+<img src="http://www.reactiongifs.com/r/beavis-on-computer.gif" width="200" />
   <h1 align="center"> Hi 👋, i`m Developer trainee </h1>
   <h3 align="center"> Developer from Argentina. I`m a student of software development and self-taught. </h3>
 </div>

@@ -1,4 +1,24 @@
-### Hi there 👋
+<div id="header" align="center"> 
+  <img src="http://reactiongifs.com/?p=19355" width="200" />
+  <h1 align="center"> Hi 👋, i`m Developer trainee </h1>
+  <h3 align="center"> Developer from Argentina. I`m a student of software development and self-taught. </h3>
+</div>
+
+<div align="left">
+  <h3> Lenguages and Tools </h3>
+  <div>
+    <li> 
+      <ul> HTML </ul>
+      <ul> CSS </ul>
+      <ul> JavaScript </ul>
+      <ul> C# </ul>
+      <ul> Python </ul>
+      <ul> SQL server </ul>
+    </li>
+  </div>
+</div>
+
+### 
 
 <!--
 **AbelAlmada92/AbelAlmada92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

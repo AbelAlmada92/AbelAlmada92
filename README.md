@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <img src="https://giphy.com/embed/MF1kR4YmC2Z20" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-computer-MF1kR4YmC2Z20">via GIPHY</a></p>" width="200" />
+  <iframe src="https://giphy.com/embed/MF1kR4YmC2Z20" width="480" height="367" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-computer-MF1kR4YmC2Z20">via GIPHY</a></p> 
   <h1 align="center"> Hi 👋, i`m Developer trainee </h1>
   <h3 align="center"> Developer from Argentina. I`m a student of software development and self-taught. </h3>
 </div>

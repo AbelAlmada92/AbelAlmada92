@@ -18,23 +18,23 @@
 <p align="left">
   <!-- C# -->
   <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="csharp" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="csharp" width="40" height="40"/>
   </a>
   <!-- HTML5 -->
   <a href="https://w3.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
   </a>
   <!-- CSS3 -->
   <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
   </a>
   <!-- Python -->
   <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="python" width="40" height="40"/>
   </a>
 </p>
 
@@ -43,33 +43,34 @@
 <p align="left">
   <!-- .NET -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="dotnet" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="dotnet" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40"/>
   </a>
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="express" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="express" width="40" height="40"/>
   </a>
   <!-- Microsoft SQL Server -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://svgrepo.com" alt="mssql" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="mssql" width="40" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
   </a>
   <!-- Linux -->
   <a href="https://linux.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="linux" width="40" height="40"/>
   </a>
   <!-- AWS -->
   <a href="https://amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="aws" width="40" height="40"/>
+    <img src="https://jsdelivr.net" alt="aws" width="40" height="40"/>
   </a>
 </p>
+
 
    
 
